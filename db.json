@@ -2,11 +2,13 @@
   "gadgets": [
     {
       "id": 1,
-      "title": " one "
+      "title": " one ",
+      "url": "https://github.com/training-api/next-course-gadgets/blob/main/assets/angular1.png"
     },
     {
       "id": 1,
-      "title": " two "
+      "title": " two ",
+      "url": "https://github.com/training-api/next-course-gadgets/blob/main/assets/react1.png"
     }
   ]
 }
