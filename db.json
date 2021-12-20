@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": " one ",
-      "url": "https://github.com/training-api/next-course-gadgets/blob/main/assets/angular1.png"
+      "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/angular1.png"
     },
     {
       "id": 1,
       "title": " two ",
-      "url": "https://github.com/training-api/next-course-gadgets/blob/main/assets/react1.png"
+      "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
     }
   ]
 }
