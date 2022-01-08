@@ -2,13 +2,35 @@
   "gadgets": [
     {
       "id": 1,
-      "title": " one! ",
+      "title": "Angular",
+      "techId: "1",
       "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/angular1.png"
     },
     {
       "id": 2,
+      "title": "React",
+      "techId: "2",
+      "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
+    },
+    {
+      "id": 3,
       "title": " two ",
+      "techId: "2",
       "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
     }
+  ],
+  "items": [
+    {
+      "id" 1,
+      "name": "Angular",
+      "github": "https://github.com/angular",
+      "website": "http://www.angular.io"
+    },
+    {
+      "id" 2,
+      "name": "React",
+      "github": "https://github.com/facebook/react",
+      "website": "http://www.react.com"
+    } 
   ]
 }
