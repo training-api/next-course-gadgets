@@ -3,19 +3,19 @@
     {
       "id": 1,
       "title": "Angular",
-      "techId: "1",
+      "techId": "1",
       "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/angular1.png"
     },
     {
       "id": 2,
       "title": "React",
-      "techId: "2",
+      "techId": "2",
       "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
     },
     {
       "id": 3,
       "title": " two ",
-      "techId: "2",
+      "techId": "2",
       "url": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
     }
   ],
