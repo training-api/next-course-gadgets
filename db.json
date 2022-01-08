@@ -21,13 +21,13 @@
   ],
   "items": [
     {
-      "id" 1,
+      "id": 1,
       "name": "Angular",
       "github": "https://github.com/angular",
       "website": "http://www.angular.io"
     },
     {
-      "id" 2,
+      "id": 2,
       "name": "React",
       "github": "https://github.com/facebook/react",
       "website": "http://www.react.com"
