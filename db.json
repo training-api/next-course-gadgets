@@ -5,21 +5,21 @@
       "title": "Angular",
       "techId": "1",
       "description": "RGB Angular Lamp",
-      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/angular1.png"
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/angular.png"
     },
     {
       "id": 2,
       "title": "React",
       "techId": "2",
       "description": "RGB React Lamp",
-      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react.png"
     },
     {
       "id": 3,
       "title": "Oplà",
       "techId": "3",
       "description": "RGB Oplà Lamp",
-      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/react1.png"
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/opla.png"
     }
   ],
   "techs": [
