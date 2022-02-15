@@ -20,6 +20,13 @@
       "techId": "3",
       "description": "RGB Oplà Lamp",
       "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/opla.png"
+    },
+    {
+      "id": 4,
+      "title": "NUOVO",
+      "techId": "3",
+      "description": "RGB NUOVO Lamp",
+      "image": "https://raw.githubusercontent.com/training-api/next-course-gadgets/main/assets/opla.png"
     }
   ],
   "techs": [
